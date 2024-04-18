@@ -1,7 +1,7 @@
 package com.model;
 
 import java.util.Objects;
-
+// BookingsModel
 public class BookingsModel {
 
 	
