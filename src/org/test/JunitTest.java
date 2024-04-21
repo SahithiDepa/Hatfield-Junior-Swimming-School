@@ -52,9 +52,6 @@ public class JunitTest {
 	public void testLoadByMonth() {
 		LessonService lessonService=new LessonService();
 		
-		assertNotNull(lessonService.s2earcLesson2ByM2o2n2th(4));
-		
+		assertNotNull(lessonService.s2earcLesson2ByM2o2n2th(4));		
 	}
-
 }
-
