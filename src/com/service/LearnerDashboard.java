@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import com.model.LearnerModel;
 import com.model.LessonModel;
-
+// updating the learner dashboard
 public class LearnerDashboard {
 	
 	static LessonService lessonService = new LessonService();
