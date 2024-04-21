@@ -18,8 +18,5 @@ public class MainApp {
 		lo2gi2nS2er2vi2ce.init();
 		
 
-
 	}
-	
-
 }
