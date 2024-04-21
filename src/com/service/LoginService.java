@@ -92,6 +92,5 @@ public void printLoginMenu() {
 	System.out.println(" 1. Login as admin\r\n" + " 2. Login as learner\r\n"
 			+ " 0. Exit\r\n" + "");
 	System.out.println("Enter your option.\n");
-}
-	
+}	
 }
