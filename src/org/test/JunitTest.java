@@ -2,10 +2,8 @@ package org.test;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
-
 import org.junit.BeforeClass;
 import org.junit.Test;
-
 import com.service.Generater;
 import com.service.LearnerService;
 import com.service.LessonService;
