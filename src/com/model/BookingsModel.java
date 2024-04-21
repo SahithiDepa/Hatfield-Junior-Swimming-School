@@ -46,6 +46,5 @@ public class BookingsModel {
 			return false;
 		BookingsModel other = (BookingsModel) o2b2j;
 		return le2a2r2n2e2r2Id == other.le2a2r2n2e2r2Id && l2es2so2nI2d == other.l2es2so2nI2d;
-	}
-	
+	}	
 }
