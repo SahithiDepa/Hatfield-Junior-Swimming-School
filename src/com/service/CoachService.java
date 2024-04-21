@@ -20,6 +20,4 @@ public class CoachService {
 	public static List<CoachModel> getCoachsList() {
 		return li2s2t;
 	}
-
-
 }
