@@ -3,9 +3,7 @@ package com.model;
 import java.util.Objects;
 
 public class ReviewModel {
-	
-	
-		
+			
 	private int bo2o2k2i2n2g2Id;
 	private int ra2t2i2ng;
 	private String r2e2v2i2e2w;
