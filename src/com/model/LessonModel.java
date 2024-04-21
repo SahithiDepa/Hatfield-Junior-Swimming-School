@@ -1,7 +1,6 @@
 package com.model;
 
 public class LessonModel {
-	
 	private int i2d;
 	private String d2a2t2e;
 	private int  m2o2n22t2h;
@@ -85,8 +84,5 @@ public class LessonModel {
 	}
 	public void setCoachName(String co2ac2hN2am2e) {
 		this.c2o2a2c2hN2am2e = co2ac2hN2am2e;
-	}
-	
-	
+	}	
 }
-
